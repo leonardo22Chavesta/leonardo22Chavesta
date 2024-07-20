@@ -14,7 +14,7 @@ Soy un programador especializado en desarrollo web y móvil, con una sólida exp
   
 ## Conecta conmigo ☕ :
 
-[![@leonardo-torres-chavesta](https://img.icons8.com/fluency/48/000000/instagram-new.png "@leonardochavestatorres")](https://www.instagram.com/leonardo_chavesta_torres/)[![@leonardo22Chavesta](https://img.icons8.com/fluency/48/000000/linkedin.png "@leonardo22Chavesta")](https://www.linkedin.com/in/leonardo-chavesta-torres-79175b239/)
+[![@leonardo-torres-chavesta](https://img.icons8.com/fluency/48/000000/instagram-new.png "@leonardochavestatorres")](https://www.instagram.com/leonardochavestatorres/)[![@leonardo22Chavesta](https://img.icons8.com/fluency/48/000000/linkedin.png "@leonardo22Chavesta")](https://www.linkedin.com/in/leonardo-chavesta-torres-79175b239/)
 
 ## Mis habilidades como programador 🧑‍💻 :
 
